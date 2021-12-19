@@ -1,3 +1,12 @@
+
+![](https://img.shields.io/badge/made%20with-javaScript-yellow?logo=javaScript).
+![](https://img.shields.io/badge/made%20with-react-blue?logo=react).
+
+
+# Have fun creating this neon style Tic-Tac-Toe
+
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/56839789/146692223-9541dc0f-a5c4-46b7-9700-9fede139dffb.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
